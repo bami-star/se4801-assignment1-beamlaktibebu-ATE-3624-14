@@ -1,0 +1,25 @@
+// Student Name: Beamlak Tibebu
+// Student ID: ATE/3624/14
+
+package com.shopwave.shopwave_starter.model;
+
+import jakarta.persistence.*;
+
+@Entity
+public class OrderItem {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @ManyToOne
+    @JoinColumn(name = "order_id")
+    private Order order;
+
+    public OrderItem() {}
+
+    // Getters and Setters
+    public Long getId() { return id; }
+    public void setId(Long id) { this.id = id; }
+    public Order getOrder() { return order; }
+    public void setOrder(Order order) { this.order = order; }
+}
