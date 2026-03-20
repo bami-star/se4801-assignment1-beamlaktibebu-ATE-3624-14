@@ -1,0 +1,11 @@
+/home/bami/Downloads/shopwave-starter/src/main/java/com/Category.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/Product.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/Application.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/controller/OrderController.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/model/Order.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/model/OrderItem.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/repository/CategoryRepository.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/repository/OrderItemRepository.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/repository/OrderRepository.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/repository/ProductRepository.java
+/home/bami/Downloads/shopwave-starter/src/main/java/com/shopwave/shopwave_starter/service/OrderService.java

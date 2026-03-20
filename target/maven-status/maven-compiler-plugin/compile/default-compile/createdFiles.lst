@@ -1,0 +1,13 @@
+com/shopwave_starter/model/Product.class
+com/shopwave/shopwave_starter/controller/OrderController.class
+com/shopwave/shopwave_starter/Application.class
+com/shopwave/shopwave_starter/model/OrderItem.class
+com/shopwave_starter/model/Category.class
+com/shopwave/shopwave_starter/service/OrderService.class
+com/shopwave/shopwave_starter/repository/OrderItemRepository.class
+com/shopwave_starter/repository/CategoryRepository.class
+com/shopwave_starter/model/Product$ProductBuilder.class
+com/shopwave/shopwave_starter/repository/OrderRepository.class
+com/shopwave/shopwave_starter/model/Order.class
+com/shopwave_starter/repository/ProductRepository.class
+com/shopwave_starter/model/Category$CategoryBuilder.class
